@@ -6,6 +6,5 @@ fav_numbers = {
     'Emon': 9
 }
 
-# Printing each person's name and their favorite number
 for name, number in fav_numbers.items():
     print(f"{name}'s favorite number is {number}.") 
